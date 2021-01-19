@@ -66,9 +66,7 @@ echo '<body class="kk"  id="kk"  background="https://www.kunm.org/sites/kunm/fil
          </p>
          
         <input type="submit" name="submit" id="submit" value="submit">
-        <p style="color: blue">
-         NOTE : ACCESS KEY:- glatuthogya VALID LIMITED TIME
-         </p>
+        
     </form>
 </div>
 </body>';
