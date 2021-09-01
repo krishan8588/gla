@@ -102,7 +102,7 @@ if(isset($_POST['submit'])) {
   
 </div>';
 
-            $soapUrl = "http://glauniversity.in/connectapp.asmx"; // asmx URL of WSDL
+            $soapUrl = "http://glauniversity.in:80/connectapp.asmx"; // asmx URL of WSDL
             $soapUser = "username";  //  username
             $soapPassword = "password"; // password
 
